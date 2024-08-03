@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsingh222&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsingh222" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **singh.rishabh8374@gmail.com**
 
